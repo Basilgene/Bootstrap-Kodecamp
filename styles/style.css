@@ -8,6 +8,14 @@ body {
   font-family: "Open Sans", sans-serif !important;
 }
 
+.nav-item {
+    color: #004b88 !important;
+}
+
+.nav-link:hover {
+    color: #6087fd !important;
+}
+
 .btn-bg-col {
     background-color: #9a1d4e !important;
 }
