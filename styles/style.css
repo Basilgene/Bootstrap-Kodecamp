@@ -1,0 +1,75 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif !important;
+}
+
+.btn-bg-col {
+    background-color: #9a1d4e !important;
+}
+
+.txt-col {
+    color: #004b88 !important;
+}
+
+.text-col {
+    color: #1f1f1f !important;
+}
+
+.main-text {
+    padding-top: 3em !important;
+}
+
+.main-bg-col {
+    background-color: rgb(234, 237, 245) !important;
+}
+
+.btn-bg {
+    background-color: #124265 !important;
+}
+
+.tex-col {
+    color: #124265;
+}
+
+.card-text-col {
+    color: #fcbb69 !important;
+}
+
+.card-bg-col {
+    background-color: #fcbb69 !important;
+}
+
+.hel-bg-col {
+    background-color: rgb(0, 75, 136) !important;
+}
+
+.card-1-bg-col {
+    background-color: rgb(252, 187, 105) !important;
+}
+
+.card-2-bg-col {
+    background-color: #9a1d4e !important;
+}
+
+.card-3-bg-col {
+    background-color: rgb(0, 75, 136) !important;
+}
+
+.card-4-bg-col {
+    background-color: darkslategray !important;
+}
+
+.card-5-bg-col {
+    background-color: green !important;
+}
+
+.card-6-bg-col {
+    background-color: greenyellow !important;
+}
+
+
