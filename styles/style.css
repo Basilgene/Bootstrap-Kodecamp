@@ -1,9 +1,3 @@
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
 body {
   font-family: "Open Sans", sans-serif !important;
 }
@@ -79,5 +73,3 @@ body {
 .card-6-bg-col {
     background-color: greenyellow !important;
 }
-
-
